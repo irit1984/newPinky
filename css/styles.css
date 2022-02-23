@@ -1,0 +1,131 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    background-color: silver;
+    position: static;
+    width: 100%;
+    line-height: 2;
+
+}
+div {
+    margin:0;
+    padding-top: 20px;
+}
+
+
+.top-cloud {
+    position: relative;
+    left:200px;
+    top: 20px;
+}
+
+.bottom-cloud {
+    position:absolute;
+}
+
+h1 {
+margin-top: 50px;
+font-family: 'Shizuru', cursive;
+font-size: 4rem;
+color: #27344c;
+line-height: 2;
+}
+
+h2 {
+font-family: 'Shizuru', cursive;
+font-size: 2.5rem;
+color: #27344c;
+font-weight: normal;
+}
+
+h3 {
+font-family: 'Shizuru', cursive;
+color: #243c51;
+}
+
+.profile-img {
+border-radius: 50%;
+}
+
+.brain-thinking {
+border-radius: 40%;
+width: 150px;
+float: left;
+padding: 30px;
+}
+
+.pinkyandthebrainimage {
+width: 150px;
+border-radius: 40%;
+float: right;
+padding: 30px;
+}
+
+.mountain{
+
+margin: 5% auto;
+left:0;
+right: 0;
+bottom:0;
+margin-bottom:0;
+
+}
+
+a {
+color: #243c51;
+}
+
+.skill-row {
+margin:auto;
+text-align: left;
+width: 50%;
+}
+
+.hr {
+clear:right;
+}
+
+.top-container {
+background-color: #a4acbc;}
+
+.btn {
+ display: inline-block;
+ background-color: #7a9c90;
+background: rgb(129,163,151);
+background: linear-gradient(0deg, rgba(129,163,151,1) 56%, rgba(34,103,79,1) 100%);
+ color:white;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #938c8a;
+  margin-bottom: 30px;
+}
+
+.btn:hover {
+background-color: #a4acbc;
+  color:white;
+}
+
+.btn:active {
+  background-color: #7a9c90;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.bottom-container {
+background-color: #a2d0c4;
+}
+
+.footer {
+margin-bottom: 0;
+padding-bottom: 30px;}
+
+.profile {
+width: 75%;
+margin:auto;
+}
